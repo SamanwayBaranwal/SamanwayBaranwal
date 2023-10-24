@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @SamanwayBaranwal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on anything...
-- 📫 How to reach me
-- mail me on :- rango8358@gmail.com
+<h1 align="center">Hi 👋, I'm Samanway baranwal</h1>
+<h3 align="center">I am samanway,i am learning programming languages🧑‍💻, one thing more,one day  whole world know me🤟🏻</h3>
+<img align="right" alt="coding" width="1000" src="https://images.app.goo.gl/G48cg7mEGSt2rpem8">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samanwaybaranwal&label=Profile%20views&color=0e75b6&style=flat" alt="samanwaybaranwal" /> </p>
 
-<!---
-SamanwayBaranwal/SamanwayBaranwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanwaybaranwal" alt="samanwaybaranwal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/meme__wallah__" target="blank"><img src="https://img.shields.io/twitter/follow/meme__wallah__?logo=twitter&style=for-the-badge" alt="meme__wallah__" /></a> </p>
+
+- 📝 I regularly write articles on [samanway008.blogspot.com](samanway008.blogspot.com)
+
+- 💬 Ask me about **Anything related to tech,computers,crypto etc.**
+
+- 📫 How to reach me **rango8358@gmail.com**
+
+- ⚡ Fun fact **I am different 🌚**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/meme__wallah__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meme__wallah__" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samanway baranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samanway baranwal" height="30" width="40" /></a>
+<a href="https://instagram.com/samanway_baranwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samanway_baranwal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samanwaybaranwal&show_icons=true&locale=en&layout=compact" alt="samanwaybaranwal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samanwaybaranwal&show_icons=true&locale=en" alt="samanwaybaranwal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samanwaybaranwal&" alt="samanwaybaranwal" /></p>
